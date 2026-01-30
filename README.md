@@ -1,4 +1,4 @@
-# Hydroponic-Pilot-Design
+# Hydroponic Pilot Design - Cold Climate
 
 ## Overview
 
